@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous AI Engineering Intelligence Platform",
+  "description": "An autonomous multi-agent AI engineering intelligence platform for enterprise-grade codebase risk scoring, real-time pull request review, repository chat, and auto-generated documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
