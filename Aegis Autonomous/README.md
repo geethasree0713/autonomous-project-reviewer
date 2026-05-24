@@ -1,20 +1,4 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/5265fd7d-a8b2-424a-b81b-9dc6753bba91
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Aegis Autonomous Developer Portal: A full-stack application (React, Tailwind CSS, Express, and Google Gemini API).
+Automated Continuous Audit & Security Scanner: Reviews pull request diffs and identifies code vulnerabilities or configuration flaws using generative AI.
+Interactive Autofix & Patch Proposals: Users can tap to review code replacements and stage security patches.
+Git Commit & Push Engine: Simulates branch updates and push notifications, proving an autonomous patch cycle.
